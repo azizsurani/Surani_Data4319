@@ -15,6 +15,9 @@ This repository covers a senior-level data science course that blends the predic
 
 ![image](https://user-images.githubusercontent.com/59889106/117865494-a41c0580-b25b-11eb-820f-23a51d0f8720.png)
 
+# “Machine learning (ML) is concerned with the design and development of algorithms and techniques that allow computers to “learn”. The major focus of ML research is to extract information from data automatically, by computational and statistical methods. It is thus closely related to data mining and statistics”. [Svensson and Söderberg, 2008] #
+
+
 
 ![image](https://user-images.githubusercontent.com/59889106/117887732-c7a07980-b276-11eb-847e-cb766f333fe2.png)
 
