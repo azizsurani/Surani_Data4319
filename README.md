@@ -15,3 +15,6 @@ This repository covers a senior-level data science course that blends the predic
 
 ![image](https://user-images.githubusercontent.com/59889106/117865494-a41c0580-b25b-11eb-820f-23a51d0f8720.png)
 
+
+![image](https://user-images.githubusercontent.com/59889106/117887732-c7a07980-b276-11eb-847e-cb766f333fe2.png)
+
