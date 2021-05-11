@@ -5,3 +5,8 @@ This repository covers a senior-level data science course that blends the predic
 ## What is Learning? ##
 
 ![image](https://user-images.githubusercontent.com/59889106/117865113-3079f880-b25b-11eb-9547-65f1673d4f74.png)
+
+
+## Why Machine Learning? ##
+
+![image](https://user-images.githubusercontent.com/59889106/117865308-71720d00-b25b-11eb-950f-3abb4fd91dbf.png)
