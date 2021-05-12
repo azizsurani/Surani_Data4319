@@ -19,6 +19,15 @@ This repository covers a senior-level data science course that blends the predic
 
 ![image](https://user-images.githubusercontent.com/59889106/117888438-b146ed80-b277-11eb-8e63-ea67c35a2215.png)
 
+# 6 Steps of Machine Learning
+
+1. Data Collection
+2. Data Preparation or Preprocessing
+3. Feature Selection
+4. Choose a Model
+5. Train the Model
+6. Evaluate the Model 
+
 
 
 
