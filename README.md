@@ -29,6 +29,9 @@ This repository covers a senior-level data science course that blends the predic
 6. Evaluate the Model 
 
 
+![image](https://user-images.githubusercontent.com/59889106/118063419-adda6180-b35e-11eb-8ce6-a42c12c18b22.png)
+
+
 ![image](https://user-images.githubusercontent.com/59889106/118063357-8e433900-b35e-11eb-8173-d77753b95a9a.png)
 
 
